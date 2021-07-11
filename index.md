@@ -1,5 +1,3 @@
-## MiniMidi
-
 A project in collaboration with Thingking Studios to create a low-cost MIDI controller.
 
 ![Image](https://github.com/nicshackle/MiniMidi/blob/gh-pages/47642625-911D-4FF9-B847-9F1B4C9C7575_1_105_c.jpeg?raw=true)
